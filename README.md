@@ -1,3 +1,6 @@
+## This is an edit of the original ORB_SLAM3 so that it will run on Windows Systems
+Citations should be include both this and the original author.
+
 # ORB-SLAM3
 
 ### V1.0, December 22th, 2021
