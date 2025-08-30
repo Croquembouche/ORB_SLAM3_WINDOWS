@@ -1,5 +1,5 @@
 ## This is an edit of the original ORB_SLAM3 so that it will run on Windows Systems
-Citations should be include both this and the original author.
+Citations should include both this and the original author.
 
 # ORB-SLAM3
 
